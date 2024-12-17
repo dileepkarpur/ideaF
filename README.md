@@ -1,0 +1,2 @@
+# ideaF
+Finance predictor
